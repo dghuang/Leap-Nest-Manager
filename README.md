@@ -8,3 +8,5 @@ A swipe will change between floors.
 A key tap will send an API call out to actually change the temperatures in the Nest thermometers.
 
 The thermometers/floors are hard-coded, this was just a MVP I will continue to work on.
+
+![floor plan](https://cloud.githubusercontent.com/assets/10352490/13584950/ddbedf72-e486-11e5-80a4-b1693a2ddbb2.PNG "Leap Nest Manager Screenshot")
