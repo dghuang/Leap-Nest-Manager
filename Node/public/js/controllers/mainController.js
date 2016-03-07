@@ -9,7 +9,7 @@ app.controller('MainController', ['$scope', '$http', function ($scope, $http) {
     vm.structures = {};
     vm.thermostats = {
     	"dsrPBFOxrCkjeC-WxqXvsdMBl9jDPuky": {
-    		temperature: 60,
+    		temperature: 50,
     		isSelected: false
     	},
     	"dsrPBFOxrCmNRkq7e0V8BdMBl9jDPuky": {
@@ -17,11 +17,11 @@ app.controller('MainController', ['$scope', '$http', function ($scope, $http) {
     		isSelected: false
     	},
     	"dsrPBFOxrCmCP8uaEyWxztMBl9jDPuky": {
-    		temperature: 60,
+    		temperature: 70,
     		isSelected: false
     	},
     	"dsrPBFOxrCkcdtb1lbea8tMBl9jDPuky": {
-    		temperature: 60,
+    		temperature: 80,
     		isSelected: false
     	}
     }
